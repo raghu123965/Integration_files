@@ -1,0 +1,258 @@
+[INFO] [14-20-23 20:14:37 PM] validateEmployee method invoked for the /login url 
+[INFO] [14-20-23 20:14:37 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [14-20-23 20:14:43 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [14-20-23 20:14:44 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [14-20-23 20:14:53 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [14-20-23 20:14:53 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [15-20-23 20:15:10 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [15-20-23 20:15:10 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [17-20-23 20:17:30 PM] validateEmployee method invoked for the /login url 
+[INFO] [17-20-23 20:17:30 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [17-20-23 20:17:38 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [17-20-23 20:17:39 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [17-20-23 20:17:49 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [17-20-23 20:17:49 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [18-20-23 20:18:03 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[FATAL] [18-20-23 20:18:03 PM] Exception occured : java.lang.NullPointerException
+[INFO] [21-20-23 21:21:46 PM] validateEmployee method invoked for the /login url 
+[INFO] [21-20-23 21:21:46 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [21-20-23 21:21:52 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [21-20-23 21:21:53 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [22-20-23 21:22:02 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [22-20-23 21:22:02 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [22-20-23 21:22:34 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [22-20-23 21:22:34 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [22-20-23 21:22:48 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [22-20-23 21:22:48 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [23-20-23 21:23:01 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [23-20-23 21:23:01 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [23-20-23 21:23:22 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [25-20-23 21:25:15 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-20-23 21:27:31 PM] validateEmployee method invoked for the /login url 
+[INFO] [27-20-23 21:27:31 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [36-20-23 21:36:21 PM] validateEmployee method invoked for the /login url 
+[INFO] [36-20-23 21:36:21 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [36-20-23 21:36:30 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [36-20-23 21:36:31 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [36-20-23 21:36:41 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [36-20-23 21:36:41 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [37-20-23 21:37:02 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [38-20-23 21:38:51 PM] validateEmployee method invoked for the /login url 
+[INFO] [38-20-23 21:38:51 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [39-20-23 21:39:01 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [39-20-23 21:39:02 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [39-20-23 21:39:13 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [39-20-23 21:39:13 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [39-20-23 21:39:29 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [40-20-23 21:40:23 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [04-20-23 22:04:41 PM] validateEmployee method invoked for the /login url 
+[INFO] [04-20-23 22:04:41 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [04-20-23 22:04:50 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [04-20-23 22:04:51 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [05-20-23 22:05:15 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [05-20-23 22:05:15 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [05-20-23 22:05:31 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [25-20-23 23:25:02 PM] validateEmployee method invoked for the /login url 
+[INFO] [25-20-23 23:25:02 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [25-20-23 23:25:09 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [25-20-23 23:25:10 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [25-20-23 23:25:19 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [25-20-23 23:25:19 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [25-20-23 23:25:47 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [25-20-23 23:25:54 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [29-20-23 23:29:56 PM] validateEmployee method invoked for the /login url 
+[INFO] [29-20-23 23:29:56 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [30-20-23 23:30:04 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [30-20-23 23:30:05 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [30-20-23 23:30:13 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [30-20-23 23:30:13 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [30-20-23 23:30:27 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [30-20-23 23:30:51 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [32-20-23 23:32:02 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [35-20-23 23:35:14 PM] validateEmployee method invoked for the /login url 
+[INFO] [35-20-23 23:35:14 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [35-20-23 23:35:29 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [35-20-23 23:35:29 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [35-20-23 23:35:37 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [35-20-23 23:35:37 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [35-20-23 23:35:55 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [36-20-23 23:36:03 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [20-21-23 13:20:42 PM] validateEmployee method invoked for the /login url 
+[INFO] [20-21-23 13:20:42 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [20-21-23 13:20:48 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [20-21-23 13:20:48 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [20-21-23 13:20:58 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [20-21-23 13:20:58 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [21-21-23 13:21:40 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [21-21-23 13:21:40 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [21-21-23 13:21:55 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [21-21-23 13:21:55 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [23-21-23 13:23:59 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [24-21-23 13:24:41 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [24-21-23 13:24:55 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [24-21-23 13:24:55 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [25-21-23 13:25:11 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 13:27:16 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 13:27:31 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 13:27:41 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [28-21-23 13:28:47 PM] Costumer booking completed of controller class RequestControllerCargo
+[DEBUG] [28-21-23 13:28:47 PM] might not have service to mysore please check
+[INFO] [29-21-23 13:29:22 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [29-21-23 13:29:22 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [29-21-23 13:29:33 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [29-21-23 13:29:34 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [29-21-23 13:29:54 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [30-21-23 13:30:12 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [34-21-23 13:34:22 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [34-21-23 13:34:22 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [34-21-23 13:34:36 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [34-21-23 13:34:36 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [34-21-23 13:34:53 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [35-21-23 13:35:07 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [38-21-23 13:38:56 PM] validateEmployee method invoked for the /login url 
+[INFO] [38-21-23 13:38:56 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [39-21-23 13:39:03 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [39-21-23 13:39:04 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [39-21-23 13:39:14 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [39-21-23 13:39:14 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [39-21-23 13:39:38 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [39-21-23 13:39:44 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [29-21-23 14:29:28 PM] validateEmployee method invoked for the /login url 
+[INFO] [29-21-23 14:29:28 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [29-21-23 14:29:37 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [29-21-23 14:29:38 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [29-21-23 14:29:47 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [29-21-23 14:29:47 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [30-21-23 14:30:00 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [30-21-23 14:30:18 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [32-21-23 14:32:52 PM] validateEmployee method invoked for the /login url 
+[INFO] [32-21-23 14:32:52 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [33-21-23 14:33:01 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [33-21-23 14:33:02 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [33-21-23 14:33:24 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [33-21-23 14:33:24 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [33-21-23 14:33:29 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [33-21-23 14:33:33 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [33-21-23 14:33:35 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [33-21-23 14:33:46 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [33-21-23 14:33:46 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [34-21-23 14:34:04 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [35-21-23 14:35:35 PM] validateEmployee method invoked for the /login url 
+[INFO] [35-21-23 14:35:35 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [35-21-23 14:35:42 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [35-21-23 14:35:43 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [35-21-23 14:35:50 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [35-21-23 14:35:50 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [36-21-23 14:36:09 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [37-21-23 14:37:00 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [37-21-23 14:37:00 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [37-21-23 14:37:13 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [37-21-23 14:37:18 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [15-21-23 15:15:31 PM] validateEmployee method invoked for the /login url 
+[INFO] [15-21-23 15:15:31 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [15-21-23 15:15:38 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [15-21-23 15:15:39 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [15-21-23 15:15:47 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [15-21-23 15:15:47 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [15-21-23 15:15:49 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [16-21-23 15:16:13 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [16-21-23 15:16:17 PM] Costumer booking completed of controller class RequestControllerCargo
+[INFO] [20-21-23 15:20:36 PM] validateEmployee method invoked for the /login url 
+[INFO] [20-21-23 15:20:36 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [20-21-23 15:20:48 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [20-21-23 15:20:48 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [20-21-23 15:20:56 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [20-21-23 15:20:56 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [20-21-23 15:20:58 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [25-21-23 15:25:22 PM] validateEmployee method invoked for the /login url 
+[INFO] [25-21-23 15:25:22 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [25-21-23 15:25:30 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [25-21-23 15:25:30 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [25-21-23 15:25:38 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [25-21-23 15:25:38 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [25-21-23 15:25:40 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [25-21-23 15:25:42 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [25-21-23 15:25:42 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [25-21-23 15:25:42 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 15:27:08 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 15:27:11 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 15:27:12 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 15:27:12 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 15:27:13 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 15:27:13 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 15:27:20 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 15:27:33 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 15:27:48 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [27-21-23 15:27:58 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [27-21-23 15:27:58 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [28-21-23 15:28:00 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [28-21-23 15:28:01 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [28-21-23 15:28:06 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [30-21-23 15:30:00 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [30-21-23 15:30:05 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [30-21-23 15:30:06 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [30-21-23 15:30:09 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [31-21-23 15:31:01 PM] validateEmployee method invoked for the /login url 
+[INFO] [31-21-23 15:31:01 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [31-21-23 15:31:10 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [31-21-23 15:31:11 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [31-21-23 15:31:18 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [31-21-23 15:31:18 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [31-21-23 15:31:20 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [37-21-23 15:37:05 PM] validateEmployee method invoked for the /login url 
+[INFO] [37-21-23 15:37:05 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [37-21-23 15:37:19 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [37-21-23 15:37:20 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [37-21-23 15:37:45 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [37-21-23 15:37:45 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [37-21-23 15:37:46 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [37-21-23 15:37:48 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [37-21-23 15:37:48 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [37-21-23 15:37:59 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [38-21-23 15:38:17 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [38-21-23 15:38:17 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [38-21-23 15:38:32 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [46-21-23 15:46:12 PM] validateEmployee method invoked for the /login url 
+[INFO] [46-21-23 15:46:12 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [46-21-23 15:46:20 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [46-21-23 15:46:21 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [46-21-23 15:46:28 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [46-21-23 15:46:28 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [46-21-23 15:46:30 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [48-21-23 15:48:53 PM] validateEmployee method invoked for the /login url 
+[INFO] [48-21-23 15:48:53 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [49-21-23 15:49:02 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [49-21-23 15:49:02 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [49-21-23 15:49:21 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [49-21-23 15:49:21 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [49-21-23 15:49:57 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [50-21-23 15:50:17 PM] Costumer booking completed of controller class RequestControllerCargo
+[DEBUG] [50-21-23 15:50:17 PM] might not have service to mysore please check
+[INFO] [53-21-23 15:53:49 PM] validateEmployee method invoked for the /login url 
+[INFO] [53-21-23 15:53:49 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [53-21-23 15:53:57 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [53-21-23 15:53:58 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [54-21-23 15:54:07 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [54-21-23 15:54:07 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[FATAL] [54-21-23 15:54:23 PM] Exception occured : javax.validation.UnexpectedTypeException: HV000030: No validator could be found for constraint 'javax.validation.constraints.NotEmpty' validating type 'java.lang.Long'. Check configuration for 'phone'
+[INFO] [56-21-23 15:56:18 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [56-21-23 15:56:18 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [57-21-23 15:57:21 PM] validateEmployee method invoked for the /login url 
+[INFO] [57-21-23 15:57:21 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [57-21-23 15:57:26 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [57-21-23 15:57:27 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [57-21-23 15:57:35 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [57-21-23 15:57:35 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [57-21-23 15:57:41 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [58-21-23 15:58:36 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [58-21-23 15:58:59 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [38-21-23 16:38:57 PM] validateEmployee method invoked for the /login url 
+[INFO] [38-21-23 16:38:57 PM] validateEmployee method execution completed and login page invoked request controller class 
+[INFO] [39-21-23 16:39:05 PM] empValidation URL invoked. calling validateEmp of service method !!! request controller class 
+[INFO] [39-21-23 16:39:06 PM] empValidation URL successfully Completed !!! and returned the page frieghtBooking request controller class
+[INFO] [39-21-23 16:39:14 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [39-21-23 16:39:14 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [39-21-23 16:39:35 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
+[INFO] [40-21-23 16:40:26 PM] Id upload method invoked for the url /customerForm of request controller class
+[INFO] [40-21-23 16:40:26 PM] Id upload method for the url /customerForm completed successfully of request controller class
+[INFO] [40-21-23 16:40:49 PM] cargoDetail url methodinvoked of controller RequestControllerCargo
